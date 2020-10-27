@@ -1,6 +1,18 @@
 {
-    "id": 1
-}
-{
-    "id": 2
+    "categories":[
+        {
+            "id": 1,
+            "newsTitle": "Hello",
+            "newsDescription": "How Are You?",
+            "newsUplodTime": "2 Days ago",
+            "imageURL": "https://public.boxcloud.com/api/2.0/internal_files/734886200488/versions/782472262888/representations/jpg_paged_2048x2048/content/1.jpg?access_token=1!J2c9jtff1rWWXp7G6LQyn5XlK8aWF-y7SUZMbkMIvHM6VB0u7tifmHeQ1MqYxe3KntPR8dZ5PRWv6rFDcIcQUfS-42_ezytyBRREg2vGH3itweKdAH1_8b_iAVt2J1a5dSof4KS28JSAVnUB9L7QrLV2ThsqB4WL3pYy-Y97rpW0Z6CvfrBv6SCXEeCVNQFUyjlxUKrFw5_-DYdc0-t5Nt0hyH7uw8iEuSn16-y7UqBopulBLfPpbkM4t6LY8FJKe_dPYS78w4JtPcRZ_0VJ9dXulsmhWOcdPvntkwS6rIoHpsBEa4WEvFb3EE1ktfbgFFwDKG6kms9RqRamnlS0xC8YVgP9QMB3xKKjp1Ydrp9dQrlocRZsnt8U0Z8kC_dUUgVKQEOoJ9-i03cUKkALx-yLjCcD_i8SfwWkuACGHhgGOoihdx_BYGsiU7L0ROGXJqrbwiSgmwYDr6VoLy0GrKD45eX3_H7OZctpn6Jy7ymq6_StdAysR6GaTUFu6phTAJfT69VYSAOAWcdL8bI0BvO4Eo7-P9J_Vy_c7hpIoGkY3X-pgF1uViPnfJCHHc0.&shared_link=https%3A%2F%2Fapp.box.com%2Fs%2Fxe02nebfxhb4kcsxlf9f3ovax6fujyk2&box_client_name=box-content-preview&box_client_version=2.52.0"
+        },
+        {
+            "id": 2
+            "newsTitle": "Hello Hi",
+            "newsDescription": "How Are You? There",
+            "newsUplodTime": "2 Days ago",
+            "imageURL": "https://public.boxcloud.com/api/2.0/internal_files/734886200488/versions/782472262888/representations/jpg_paged_2048x2048/content/1.jpg?access_token=1!J2c9jtff1rWWXp7G6LQyn5XlK8aWF-y7SUZMbkMIvHM6VB0u7tifmHeQ1MqYxe3KntPR8dZ5PRWv6rFDcIcQUfS-42_ezytyBRREg2vGH3itweKdAH1_8b_iAVt2J1a5dSof4KS28JSAVnUB9L7QrLV2ThsqB4WL3pYy-Y97rpW0Z6CvfrBv6SCXEeCVNQFUyjlxUKrFw5_-DYdc0-t5Nt0hyH7uw8iEuSn16-y7UqBopulBLfPpbkM4t6LY8FJKe_dPYS78w4JtPcRZ_0VJ9dXulsmhWOcdPvntkwS6rIoHpsBEa4WEvFb3EE1ktfbgFFwDKG6kms9RqRamnlS0xC8YVgP9QMB3xKKjp1Ydrp9dQrlocRZsnt8U0Z8kC_dUUgVKQEOoJ9-i03cUKkALx-yLjCcD_i8SfwWkuACGHhgGOoihdx_BYGsiU7L0ROGXJqrbwiSgmwYDr6VoLy0GrKD45eX3_H7OZctpn6Jy7ymq6_StdAysR6GaTUFu6phTAJfT69VYSAOAWcdL8bI0BvO4Eo7-P9J_Vy_c7hpIoGkY3X-pgF1uViPnfJCHHc0.&shared_link=https%3A%2F%2Fapp.box.com%2Fs%2Fxe02nebfxhb4kcsxlf9f3ovax6fujyk2&box_client_name=box-content-preview&box_client_version=2.52.0"
+        }
+    ]
 }
