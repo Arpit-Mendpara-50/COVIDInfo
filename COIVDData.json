@@ -14,5 +14,46 @@
             "newsUplodTime": "2 Days ago",
             "imageURL": "https://public.boxcloud.com/api/2.0/internal_files/734910849080/versions/782500558280/representations/png_paged_2048x2048/content/1.png?access_token=1!z1YRCSd-cJyEWfNKGPri5CkDg0qCgA2BfVz_o6IN38yzC9OpsUJWtwA3FrLU415I-k5si1_LE7xtfTebxaCfzH38Ulgw6PP2dz_Hkg-Vn6zeNNUdb0TXcv6eVaK__dRYoKrn4J7iiKXaeO0ZUB6Be2rDrbWfcq0PBeyB_FeYtcF2WVNbnOalV7bLdAkd8OeC4xwhxBjYCdVO05TvaNzRkayONJEHBq_kbShSl2QLXQHcuKEgkOrcwB3xi-fTKwWCsvOr-hEIWc8y3TFCoz4_oB04D7ChLuCqUtCVovlKq62yZULKjnFQ-1Xk3oCfTFZLc16xvM456SBvLE8dgId1Sr5IGoSytY4CSYwJr0NTocAKQt9y872-1wM7532uPwJQ1Pk2fzMy0OlXnjndCh6OuRgzdvnSM8QdDj8eTTFD50WLo_j3yN5iz_3Q9NcjD2Ck05NJTJ8NnM_3eVTBdC_77bfFrISftqvmZ-ci-27Y7cUjglLigynxt_ksfdsELNs5OOnRQ2xp0kh29udIfRMEILT9FUdyYXfrlhc6eh9OB-hfIvJCD5y5a6QduCi3V6D-nE-4hsEuKWCPx0gALPdLd19reBBBNyHiB4i4Rg22jhCDnu4rM6oPDDvPzTXPnQ_uOyZkmwbXBIe2uiwEs8eoFxDKKFsC32_lJ4Jk7SJd7TSDYCut&box_client_name=box-content-preview&box_client_version=2.52.0"
         }
+    ],
+    "country":[
+        {
+            "Canada":{
+                "Province":[
+                    {
+                        "Quebec":{
+                            "total": 200,
+                            "active": 11,
+                            "recovered": 175,
+                            "death": 14
+                        },
+                        "Ontario":{
+                            "total": 300,
+                            "active": 11,
+                            "recovered": 275,
+                            "death": 14
+                        }
+                    }
+                ]
+            },
+            "India":{
+                "Province":[
+                    {
+                        "Gujarat":{
+                            "total": 100,
+                            "active": 11,
+                            "recovered": 75,
+                            "death": 14
+                            
+                        },
+                        "Maharastra":{
+                            "total": 200,
+                            "active": 11,
+                            "recovered": 175,
+                            "death": 14
+                        }
+                    }
+                ]
+            }
+        }
     ]
 }
