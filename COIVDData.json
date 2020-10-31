@@ -17,39 +17,38 @@
     ],
     "country":[
         {
-            "Canada":{
-                "Province":[
+            "canada":{
+                "province":[
                     {
                         "Quebec":{
-                            "total": 200,
-                            "active": 11,
-                            "recovered": 175,
-                            "death": 14
+                            "total":200,
+                            "active":11,
+                            "recovered":175,
+                            "death":14
                         },
                         "Ontario":{
-                            "total": 300,
-                            "active": 11,
-                            "recovered": 275,
-                            "death": 14
+                            "total":300,
+                            "active":11,
+                            "recovered":275,
+                            "death":14
                         }
                     }
                 ]
             },
-            "India":{
-                "Province":[
+            "india":{
+                "province":[
                     {
                         "Gujarat":{
-                            "total": 100,
-                            "active": 11,
-                            "recovered": 75,
-                            "death": 14
-                            
+                            "total":100,
+                            "active":11,
+                            "recovered":75,
+                            "death":14
                         },
                         "Maharastra":{
-                            "total": 200,
-                            "active": 11,
-                            "recovered": 175,
-                            "death": 14
+                            "total":200,
+                            "active":11,
+                            "recovered":175,
+                            "death":14
                         }
                     }
                 ]
