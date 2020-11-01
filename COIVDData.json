@@ -13,6 +13,27 @@
             "newsDescription": "How Are You? There",
             "newsUplodTime": "2 Days ago",
             "imageURL": "https://live.staticflickr.com/65535/50556276926_88f518a149_m.jpg"
+        },
+        {
+            "id": 3,
+            "newsTitle": "Hello Hi",
+            "newsDescription": "How Are You? There",
+            "newsUplodTime": "2 Days ago",
+            "imageURL": "https://live.staticflickr.com/65535/50556276926_88f518a149_m.jpg"
+        },
+        {
+            "id": 4,
+            "newsTitle": "Hello Hi",
+            "newsDescription": "How Are You? There",
+            "newsUplodTime": "2 Days ago",
+            "imageURL": "https://live.staticflickr.com/65535/50556276926_88f518a149_m.jpg"
+        },
+        {
+            "id": 5,
+            "newsTitle": "Hello Hi",
+            "newsDescription": "How Are You? There",
+            "newsUplodTime": "2 Days ago",
+            "imageURL": "https://live.staticflickr.com/65535/50556276926_88f518a149_m.jpg"
         }
     ],
     "country":[
