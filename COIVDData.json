@@ -138,11 +138,10 @@
                             "active":8472,
                             "recovered":21304,
                             "death":395
-                        },
+                        }
                     }
                 ]
             },
-            
             "United Kingdom":{
                 "province":[
                     {
@@ -169,12 +168,11 @@
                             "active":24161,
                             "recovered":95876,
                             "death":50804
-                        },
+                        }
                         
                     }
                 ]
             },
-            
             "America":{
                 "province":[
                     {
@@ -279,8 +277,7 @@
                             "active":84000,
                             "recovered":161946,
                             "death":3578
-                        },
-                        
+                        }
                     }
                 ]
             },
