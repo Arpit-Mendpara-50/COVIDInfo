@@ -62,15 +62,15 @@
                 "province":[
                     {
                         "Quebec":{
-                            "total":139,643,
-                            "active":11,716,
-                            "recovered":120,906,
+                            "total":139643,
+                            "active":11716,
+                            "recovered":120906,
                             "death":7021
                         },
                         "Ontario":{
-                            "total":113,053,
-                            "active":13,538,
-                            "recovered":95,876,
+                            "total":113053,
+                            "active":13538,
+                            "recovered":95876,
                             "death":3624
                         },
                         "New Brunswick":{
@@ -116,27 +116,27 @@
                             "death":0
                         },
                         "Manitoba":{
-                            "total":16,118,
+                            "total":16118,
                             "active":9024,
                             "recovered":6804,
                             "death":290
                         },
                         "Saskatchewan":{
-                            "total":7,888,
+                            "total":7888,
                             "active":3322,
                             "recovered":4521,
                             "death":45
                         },
                         "Alberta":{
-                            "total":53,105,
-                            "active":14,217,
-                            "recovered":38,369,
+                            "total":53105,
+                            "active":14217,
+                            "recovered":38369,
                             "death":519
                         },
                         "British Columbia":{
-                            "total":30,884,
-                            "active":8,472,
-                            "recovered":21,304,
+                            "total":30884,
+                            "active":8472,
+                            "recovered":21304,
                             "death":395
                         },
                     }
@@ -147,28 +147,28 @@
                 "province":[
                     {
                         "Wales":{
-                            "total":79,540,
-                            "active":27,716,
-                            "recovered":48,906,
-                            "death":2,523
+                            "total":79540,
+                            "active":27716,
+                            "recovered":48906,
+                            "death":2523
                         },
                         "Scotland":{
-                            "total":94,689,
-                            "active":13,538,
-                            "recovered":89,000,
+                            "total":94689,
+                            "active":13538,
+                            "recovered":89000,
                             "death":5380
                         },
                          "Northern Ireland":{
-                            "total":52,175,
-                            "active":14,538,
-                            "recovered":37,000,
+                            "total":52175,
+                            "active":14538,
+                            "recovered":37000,
                             "death":983
                         },
                          "England":{
-                            "total":1,390,923,
-                            "active":24,161,
-                            "recovered":95,876,
-                            "death":50,804
+                            "total":1390923,
+                            "active":24161,
+                            "recovered":95876,
+                            "death":50804
                         },
                         
                     }
@@ -179,106 +179,106 @@
                 "province":[
                     {
                         "Texas":{
-                            "total":1,245,534,
-                            "active":239,100,
-                            "recovered":984,466,
-                            "death":21,968
+                            "total":1245534,
+                            "active":239100,
+                            "recovered":984466,
+                            "death":21968
                         },
                         "California":{
-                            "total":1,209,449,
-                            "active":623,879,
-                            "recovered":566,436,
-                            "death":19,134
+                            "total":1209449,
+                            "active":623879,
+                            "recovered":566436,
+                            "death":19134
                         },
                          "Florida":{
-                            "total":992,660,
-                            "active":14,538,
-                            "recovered":654,055,
-                            "death":18,500
+                            "total":992660,
+                            "active":14538,
+                            "recovered":654055,
+                            "death":18500
                         },
                          "illinois":{
-                            "total":720,114,
-                            "active":333,435,
-                            "recovered":373,797,
-                            "death":12,882
+                            "total":720114,
+                            "active":333435,
+                            "recovered":373797,
+                            "death":12882
                         },
                         "New York":{
-                            "total":672,393,
-                            "active":196,729,
-                            "recovered":441,191,
-                            "death":34,473
+                            "total":672393,
+                            "active":196729,
+                            "recovered":441191,
+                            "death":34473
                         },
                         "Georgia":{
-                            "total":469,516,
-                            "active":162,886,
-                            "recovered":297,188,
-                            "death":9,442
+                            "total":469516,
+                            "active":162886,
+                            "recovered":297188,
+                            "death":9442
                         },
                         "Ohio":{
-                            "total":421,063,
-                            "active":143,308,
-                            "recovered":271,326,
-                            "death":6,429
+                            "total":421063,
+                            "active":143308,
+                            "recovered":271326,
+                            "death":6429
                         },
                         "Michigan":{
-                            "total":388,942,
-                            "active":214,109,
-                            "recovered":165,269,
-                            "death":9,564
+                            "total":388942,
+                            "active":214109,
+                            "recovered":165269,
+                            "death":9564
                         },
                         "Wisconsin":{
-                            "total":387,235,
-                            "active":68,836,
-                            "recovered":315,086,
-                            "death":3,313
+                            "total":387235,
+                            "active":68836,
+                            "recovered":315086,
+                            "death":3313
                         },
                         "Pennsylvania":{
-                            "total":366,971,
-                            "active":141,988,
-                            "recovered":214,516,
-                            "death":10,467
+                            "total":366971,
+                            "active":141988,
+                            "recovered":214516,
+                            "death":10467
                         },
                         "North Carolina":{
-                            "total":364,512,
-                            "active":43,272,
-                            "recovered":315,979,
-                            "death":5,261
+                            "total":364512,
+                            "active":43272,
+                            "recovered":315979,
+                            "death":5261
                         },
                         "New Jersey":{
-                            "total":344,262,
-                            "active":130,328,
-                            "recovered":196,791,
-                            "death":17,143
+                            "total":344262,
+                            "active":130328,
+                            "recovered":196791,
+                            "death":17143
                         },
                         "Indiana":{
-                            "total":338,977,
-                            "active":141,964,
-                            "recovered":191,290,
-                            "death":5,723
+                            "total":338977,
+                            "active":141964,
+                            "recovered":191290,
+                            "death":5723
                         },
                         "Arizona":{
-                            "total":326,817,
-                            "active":268,267,
-                            "recovered":51,911,
-                            "death":6,639
+                            "total":326817,
+                            "active":268267,
+                            "recovered":51911,
+                            "death":6639
                         },
                         "Minnesota":{
-                            "total":318,763,
-                            "active":42,503,
-                            "recovered":272,608,
-                            "death":3,652
+                            "total":318763,
+                            "active":42503,
+                            "recovered":272608,
+                            "death":3652
                         },
                         "Missouri":{
-                            "total":314,990,
-                            "active":225,644,
-                            "recovered":85,274,
-                            "death":4,072
+                            "total":314990,
+                            "active":225644,
+                            "recovered":85274,
+                            "death":4072
                         },
                         "Alabama":{
-                            "total":249,524,
-                            "active":84,000,
-                            "recovered":161,946,
-                            "death":3,578
+                            "total":249524,
+                            "active":84000,
+                            "recovered":161946,
+                            "death":3578
                         },
                         
                     }
@@ -288,159 +288,159 @@
                 "province":[
                     {
                         "Gujarat":{
-                            "total":205,000,
-                            "active":14,429,
-                            "recovered":186,000,
+                            "total":205000,
+                            "active":14429,
+                            "recovered":186000,
                             "death":3938
                         },
                         "Maharastra":{
-                            "total":18,10,000,
-                            "active":85,963,
-                            "recovered":16,70,000,
-                            "death":46,898
+                            "total":1810000,
+                            "active":85963,
+                            "recovered":1670000,
+                            "death":46898
                         },
                         "Karnataka":{
-                            "total":879,560,
-                            "active":25,316,
-                            "recovered":842,499,
-                            "death":11,726
+                            "total":879560,
+                            "active":25316,
+                            "recovered":842499,
+                            "death":11726
                         },
                         "Andra Pradesh":{
-                            "total":865,705,
-                            "active":12,615,
-                            "recovered":846,120,
-                            "death":6,970
+                            "total":865705,
+                            "active":12615,
+                            "recovered":846120,
+                            "death":6970
                         },
                         "Tamil Nadu":{
-                            "total":776,174,
-                            "active":11,173,
-                            "recovered":753,332,
-                            "death":11,669
+                            "total":776174,
+                            "active":11173,
+                            "recovered":753332,
+                            "death":11669
                         },
                         "Kerala":{
-                            "total":583,742,
-                            "active":64,497,
-                            "recovered":516,978,
-                            "death":8,811
+                            "total":583742,
+                            "active":64497,
+                            "recovered":516978,
+                            "death":8811
                         },
                         "Delhi":{
-                            "total":551,262,
-                            "active":38,734,
-                            "recovered":503,717,
-                            "death":2,149
+                            "total":551262,
+                            "active":38734,
+                            "recovered":503717,
+                            "death":2149
                         },
                         "Uttar Pradesh":{
-                            "total":535,449,
-                            "active":25,422,
-                            "recovered":502,353,
-                            "death":7,674
+                            "total":535449,
+                            "active":25422,
+                            "recovered":502353,
+                            "death":7674
                         },
                         "West Bengal":{
-                            "total":470,498,
-                            "active":24,670,
-                            "recovered":437,604,
-                            "death":8,224
+                            "total":470498,
+                            "active":24670,
+                            "recovered":437604,
+                            "death":8224
                         },
                         "Odisha":{
-                            "total":316,645,
-                            "active":6,049,
-                            "recovered":308,839,
-                            "death":1,757
+                            "total":316645,
+                            "active":6049,
+                            "recovered":308839,
+                            "death":1757
                         },
                         "Telangana":{
-                            "total":266,904,
-                            "active":10,784,
-                            "recovered":254,676,
-                            "death":1,444
+                            "total":266904,
+                            "active":10784,
+                            "recovered":254676,
+                            "death":1444
                         },
                         "Rajasthan":{
-                            "total":256,947,
-                            "active":27,302,
-                            "recovered":227,408,
-                            "death":2,237
+                            "total":256947,
+                            "active":27302,
+                            "recovered":227408,
+                            "death":2237
                         },
                         "Bihar":{
-                            "total":233,142,
-                            "active":5,506,
-                            "recovered":226,392,
-                            "death":1,243
+                            "total":233142,
+                            "active":5506,
+                            "recovered":226392,
+                            "death":1243
                         },
                         "Chhattisgadh":{
-                            "total":230,956,
-                            "active":23,957,
-                            "recovered":204,198,
-                            "death":2,801
+                            "total":230956,
+                            "active":23957,
+                            "recovered":204198,
+                            "death":2801
                         },
                         "Haryana":{
-                            "total":226,611,
-                            "active":20,778,
-                            "recovered":203,517,
-                            "death":2,316
+                            "total":226611,
+                            "active":20778,
+                            "recovered":203517,
+                            "death":2316
                         },
                         "Assam":{
-                            "total":212,171,
-                            "active":3,285,
-                            "recovered":207,905,
+                            "total":212171,
+                            "active":3285,
+                            "recovered":207905,
                             "death":978
                         },
                         "Madhya Pradesh":{
-                            "total":199,952,
-                            "active":14,199,
-                            "recovered":182,544,
-                            "death":3,209
+                            "total":199952,
+                            "active":14199,
+                            "recovered":182544,
+                            "death":3209
                         },
                         "Punjab":{
-                            "total":266,904,
-                            "active":10,784,
-                            "recovered":254,676,
-                            "death":1,444
+                            "total":266904,
+                            "active":10784,
+                            "recovered":254676,
+                            "death":1444
                         },
                         "Jharkhand":{
-                            "total":108,388,
-                            "active":2,169,
-                            "recovered":105,258,
+                            "total":108388,
+                            "active":2169,
+                            "recovered":105258,
                             "death":961
                         },
                         "Jammu and Kashmir":{
-                            "total":108,306,
-                            "active":5,275,
-                            "recovered":101,363,
-                            "death":1,668
+                            "total":108306,
+                            "active":5275,
+                            "recovered":101363,
+                            "death":1668
                         },
                         "Uttarakhand":{
-                            "total":72,997,
-                            "active":4,682,
-                            "recovered":66,464,
-                            "death":1,196
+                            "total":72997,
+                            "active":4682,
+                            "recovered":66464,
+                            "death":1196
                         },
                         "Goa":{
-                            "total":47,341,
-                            "active":1,316,
-                            "recovered":45,340,
+                            "total":47341,
+                            "active":1316,
+                            "recovered":45340,
                             "death":685
                         },
                         "Himanchal Pradesh":{
-                            "total":37,497,
-                            "active":7,878,
-                            "recovered":28,993,
+                            "total":37497,
+                            "active":7878,
+                            "recovered":28993,
                             "death":589
                         },
                         "Chandigadh":{
-                            "total":17,051,
-                            "active":1,169,
-                            "recovered":15,612,
+                            "total":17051,
+                            "active":1169,
+                            "recovered":15612,
                             "death":270
                         },
                         "Arunachal Pradesh":{
-                            "total":16,204,
+                            "total":16204,
                             "active":926,
-                            "recovered":15,229,
+                            "recovered":15229,
                             "death":49
                         },
                         "Meghalaya":{
-                            "total":11,581,
+                            "total":11581,
                             "active":947,
-                            "recovered":10,524,
+                            "recovered":10524,
                             "death":110
                         }
                     }
